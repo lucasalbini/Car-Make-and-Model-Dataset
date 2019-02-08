@@ -2,13 +2,11 @@
 
 ## Image dataset for car make and model recognition
 
-This dataset was created for car make and model recognition in static images. We provide the images 
-
-This dataset was created specifically for anomaly detection in videos. We provide annotated video clips and static frames taken in a busy highway. Anomalies in this context can be described as any of the present classes that are: **cars, trucks, buses, motorcycles, people and vans**. There are two datasets, **UTFPR-HSD1** and **UTFPR-HSD2**, with videos taken at different positions, transversally and longitudinally to the lane. Videos were collected at 25 fps (frames per second) with resolution 1920 x 1080 pixels. There are 61 video clips in total, comprising, 15664 frames.
+This dataset was created for car make and model recognition in static images. We provide annotated images for multiclass classification obtained from specialized websites and google images. The data have 25000 images split into 50 different classes at the level of Make and Model.
 
 ## Specifications Table
 
-![Specification Table](SpecificationTable.jpg)
+![Specification Table](SpecificationTable.png)
 
 ## Value of the data
 
