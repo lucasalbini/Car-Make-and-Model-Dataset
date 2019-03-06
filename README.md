@@ -22,10 +22,7 @@ This dataset was created for car make and model recognition in static images. We
 Data were collected ourselves from vehicle specialized websites that can generaly be images from publicity in a controlled behavior as also have images acquired from images on google images that can be of the more diversily state.
 
 
-![Classes UTFPR-CMMD](CMMD.png)
-## Sample images from UTFPR-CMMD
-
-![UTFPR-CMMD](CMMD.png)
+![CMMD-UTFPR](mosaico.JPG)
 
 
 ## Links to the data
