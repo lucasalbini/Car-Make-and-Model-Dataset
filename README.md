@@ -6,7 +6,7 @@ This dataset was created for car make and model recognition in static images. We
 
 ## Specifications Table
 
-![Specification Table](SpecificationTable.png)
+![Specification Table](SpecificationTable.PNG)
 
 ## Value of the data
 
