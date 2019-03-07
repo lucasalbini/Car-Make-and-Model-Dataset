@@ -6,7 +6,7 @@ This dataset was created for car make and model recognition in static images. We
 
 ## Specifications Table
 
-![Specification Table](SpecificationTable.PNG)
+![Specification Table](SpecificationTable.png)
 
 ## Value of the data
 
@@ -23,7 +23,7 @@ Data were collected from various sources, such as vehicle specialized websites, 
 
 The data set has a total of 25,000 images distributed in 10 makes and 50 models, each class with an average of 500 images. The distribution of the models can be seen in the image below.
 
-![Make Count](make_count.png)
+![Make Count](make_count.PNG)
 
 The dataset was preprocessed using [YOLO](https://pjreddie.com/darknet/yolo/), to cut only the vehicle in the image, discarding the background and possible noises. Some examples of images within the dataset can be seen below.
 
