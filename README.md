@@ -25,6 +25,10 @@ The data set has a total of 25,000 images distributed in 10 makes and 50 models,
 
 ![Make Count](make_count.PNG)
 
+The 50 classes present in the dataset can be seen in the image below.
+
+![Classes](classes.PNG)
+
 The dataset was preprocessed using [YOLO](https://pjreddie.com/darknet/yolo/), to cut only the vehicle in the image, discarding the background and possible noises. Some examples of images within the dataset can be seen below.
 
 ![CMMD-UTFPR](mosaico.JPG)
