@@ -19,15 +19,19 @@ This dataset was created for car make and model recognition in static images. We
 
 ## Data
 
-Data were collected ourselves from vehicle specialized websites that can generaly be images from publicity in a controlled behavior as also have images acquired from images on google images that can be of the more diversily state.
+Data were collected from various sources, such as vehicle specialized websites, manufacturers websites, image repositories on the internet, among others. The initial objective was to classify images in three category: Car Make, model and year. But, due to the complexity of the problem we decided to start only with the vehicle model.
 
+The data set has a total of 25,000 images distributed in 10 makes and 50 models, each class with an average of 500 images. The distribution of the models can be seen in the image below.
+
+![Make Count](make_count.png)
+
+The dataset was preprocessed using [YOLO](https://pjreddie.com/darknet/yolo/), to cut only the vehicle in the image, discarding the background and possible noises. Some examples of images within the dataset can be seen below.
 
 ![CMMD-UTFPR](mosaico.JPG)
 
 
 ## Links to the data
 [UTFPR-CMMD]()
-###https://drive.google.com/file/d/1C3mXMpItQgctGALu7cGMAmeOShXdzIOY/view?usp=sharing
 
 ## Acknowledgments
 
