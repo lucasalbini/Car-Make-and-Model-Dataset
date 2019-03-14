@@ -35,7 +35,7 @@ The dataset was preprocessed using [YOLO](https://pjreddie.com/darknet/yolo/), t
 
 
 ## Links to the data
-[UTFPR-CMMD]()
+[UTFPR-CMMD](https://drive.google.com/file/d/1vFMXiG7Suu8acdVShe5TC3MR879aQSl6/view?usp=sharing)
 
 ## Acknowledgments
 
